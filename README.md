@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://annorcode.hashnode.dev/](https://annorcode.hashnode.dev/)
 
-- 💬 Ask me about **anything!!**
-
 - 📫 How to reach me **nyamekyeannor@gmail.com**
 
 - ⚡ Fun fact **Music is a passion of mine. Call me Mr. Drummer boy 🥁**
