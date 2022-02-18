@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nyamekyeannor@gmail.com**
 
-- ⚡ Fun fact **Music is a passion of mine. Call me Mr. Drummer boy 🥁**
+- ⚡ Fun fact Music is a passion of mine. Call me Mr. Drummer boy 🥁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
