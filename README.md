@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Nyamekye Annor</h1>
 <h3 align="center">Software Engineer | Frontend Web Developer | Email Developer | Content Creator</h3>
 
-- 🔭 I’m currently working on building ** Chays Scratch Kitchen** A resturant Website. **
+- 🔭 I’m currently working on building **Chays Scratch Kitchen** A resturant Website. 
 
 - 👨🏾‍💻 All of my projects are available at [https://annorcode.io/](https://annorcode.io/)
 
