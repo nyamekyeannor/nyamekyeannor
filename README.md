@@ -16,7 +16,7 @@
 <a href="https://twitter.com/annorcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annorcode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nyamekye-annor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyamekye-annor" height="30" width="40" /></a>
 <a href="https://instagram.com/annorcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annorcode" height="30" width="40" /></a>
-<a href="https://hashnode.com/annorcode.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="annorcode.hashnode.dev" height="30" width="40" /></a>
+<a href="https://annorcode.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="annorcode.hashnode.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
