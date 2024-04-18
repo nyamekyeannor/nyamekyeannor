@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Nyamekye Annor</h1>
-<h3 align="center">Software Engineer | Frontend Web Developer | Email Developer | Content Creator</h3>
+<h3 align="center">Frontend Developer | Software Engineer | QA Engineer | Content Creator</h3>
 
 - 👨🏾‍💻  All of my projects are available at [https://annorcode.io/](https://annorcode.io/)
   
