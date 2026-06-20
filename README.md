@@ -1,6 +1,6 @@
 # Hi there, I'm Nyamekye! 👋🏾
 
-I'm a developer who's passionate about breaking down content for developers, creators, and other users into something easy to digest 💻 Follow me on IG & YouTube! 🎙️
+I'm a developer who's passionate about breaking down content for developers, users, and creators into something easy to digest 💻 Follow me on IG & YouTube! 🎙️
 
 ### 🎯 About Me 🚀
 
