@@ -25,7 +25,7 @@ I'm a Front-End Engineer and QA Analyst who is passionate about building, learni
 
 ### 🎙️ Featured Project — Decoded Stories
 
-A podcast featuring developers, developer advocates, and tech professionals — 3 seasons, 30 episodes, and counting. Season 4 is already shot, and Season 5 is in planning.
+A podcast featuring developers, developer advocates, and tech professionals — 3 seasons, 30 episodes, and counting. Season 4 is on its way. 
 
 <p>
 <a href="https://open.spotify.com/show/4CxKKkGOzq6o3XHpmcaeK8?si=f73d31818c7e48cc" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"/></a>
@@ -34,7 +34,7 @@ A podcast featuring developers, developer advocates, and tech professionals — 
 
 ### 📹 Developer Advocacy & Content
 
-I create sponsored educational content and product walkthroughs for developer tools and SaaS companies under my brand, **AnnorCode**, including [Typesense](https://typesense.org/) and [Hyperskill](https://hyperskill.org/).
+I create sponsored educational content and product walkthroughs for developer tools and SaaS companies under my brand, **AnnorCode**. Here are some of the compamies i've partnered with:  [Typesense](https://typesense.org/),  [Leveo](https://www.leveo.io/) and [Hyperskill](https://hyperskill.org/).
 
 - 👨🏾‍💻  Check out my [website](https://annorcode.io/)
 - 📫  How to reach me **annorcode@gmail.com**
