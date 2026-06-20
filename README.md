@@ -1,18 +1,18 @@
-Hi there, I'm Nyamekye! 👋🏾
+<img width="100%" src="./assets/banner.jpg" alt="Nyamekye Annor banner" />
 
-Hai! 👋🏾 I'm a developer who's passionate about creating content for you to learn tech things 💻 Follow me on IG & YouTube! 🎙️
+# Hi there, I'm Nyamekye! 👋🏾
 
-🎯 About Me 🚀
+Hai! 👋🏾 I'm a developer who's passionate about breaking down content for developers, creators, and other users into something easy to digest 💻 Follow me on IG & YouTube! 🎙️
 
-I'm a Front-End Engineer and QA Analyst who is passionate about building, learning, and turning what I find into content people actually want to watch. I enjoy community building, content creation, and learning deeply about JavaScript and Developer Relations.
+### 🎯 About Me 🚀
 
+I'm a Front-End Engineer and QA Analyst who is passionate about building, learning, and turning what I learn into content people actually want to watch. I enjoy community building, content creation, and learning deeply about the tech and AI products I work with.
 
-🚀 Currently learning: AI-assisted development & workflow automation
-🎙️ Working on: Season 5 of Decoded Stories, my podcast for developers and tech professionals
-⚡ Fun fact: Music is a passion of mine — call me Mr. Drummer Boy 🥁
+- 🚀 Currently learning: AI-assisted development & workflow automation
+- 🎙️ Working on: Season 5 of *Decoded Stories*, my podcast for developers and tech professionals
+- ⚡ Fun fact: Music is a passion of mine — call me Mr. Drummer Boy 🥁
 
-
-🛠️ My Skills 🧠
+### 🛠️ My Skills 🧠
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,7 +24,8 @@ I'm a Front-End Engineer and QA Analyst who is passionate about building, learni
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-🎙️ Featured Project — Decoded Stories
+
+### 🎙️ Featured Project — Decoded Stories
 
 A podcast featuring developers, developer advocates, and tech professionals — 3 seasons, 30 episodes, and counting. Season 4 is already shot, and Season 5 is in planning.
 
@@ -32,14 +33,13 @@ A podcast featuring developers, developer advocates, and tech professionals — 
 <a href="https://open.spotify.com/show/4CxKKkGOzq6o3XHpmcaeK8?si=f73d31818c7e48cc" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"/></a>
 <a href="https://www.youtube.com/@AnnorCode/podcasts" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/></a>
 </p>
-📹 Developer Advocacy & Content
 
-I create sponsored educational content and product walkthroughs for developer tools and SaaS companies, including Typesense, Hyperskill, and Leveo — under my brand, AnnorCode.
+### 📹 Developer Advocacy & Content
 
+I create sponsored educational content and product walkthroughs for developer tools and SaaS companies under my brand, **AnnorCode**, including [Typesense](https://typesense.org/) and [Hyperskill](https://hyperskill.org/).
 
-👨🏾‍💻  Check out my website
-📫  How to reach me annorcode@gmail.com
-
+- 👨🏾‍💻  Check out my [website](https://annorcode.io/)
+- 📫  How to reach me **annorcode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
