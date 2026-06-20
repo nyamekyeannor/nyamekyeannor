@@ -34,7 +34,7 @@ A podcast featuring developers, developer advocates, and tech professionals — 
 
 ### 📹 Developer Advocacy & Content
 
-I create sponsored educational content and product walkthroughs for developer tools and SaaS companies under my brand, **AnnorCode**. Here are some of the compamies i've partnered with:  [Typesense](https://typesense.org/),  [Leveo](https://www.leveo.io/) and [Hyperskill](https://hyperskill.org/).
+I create sponsored educational content and product walkthroughs for developer tools and SaaS companies under my brand, **AnnorCode**. Here are some of the companies I've partnered with:  [Typesense](https://typesense.org/),  [Leveo](https://www.leveo.io/), [Hyperskill](https://hyperskill.org/).
 
 - 👨🏾‍💻  Check out my [website](https://annorcode.io/)
 - 📫  How to reach me **annorcode@gmail.com**
