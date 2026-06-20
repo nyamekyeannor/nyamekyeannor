@@ -1,8 +1,6 @@
-<img width="100%" src="./assets/banner.jpg" alt="Nyamekye Annor banner" />
-
 # Hi there, I'm Nyamekye! 👋🏾
 
-Hai! 👋🏾 I'm a developer who's passionate about breaking down content for developers, creators, and other users into something easy to digest 💻 Follow me on IG & YouTube! 🎙️
+I'm a developer who's passionate about breaking down content for developers, creators, and other users into something easy to digest 💻 Follow me on IG & YouTube! 🎙️
 
 ### 🎯 About Me 🚀
 
